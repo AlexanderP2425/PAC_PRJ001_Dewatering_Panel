@@ -6,7 +6,13 @@
 ## Descripción del Proyecto
 Diseño de ingeniería "As-Built" para un tablero de control de arranque directo, destinado a una bomba de extracción de agua (Dewatering) en operaciones mineras subterráneas. 
 
-El diseño prioriza la seguridad integral del operador al implementar una lógica de mando completamente aislada a 24VDC, separada del circuito de fuerza trifásico, cumpliendo con los exigentes estándares de protección de la industria pesada.
+## Objetivo del Proyecto
+Diseñar y documentar, bajo la norma internacional IEC 60617, un sistema de control electromecánico confiable para la extracción ininterrumpida de agua (Dewatering) en socavones mineros. 
+
+El proyecto tiene tres metas fundamentales:
+1. **Seguridad Humana:** Garantizar la integridad del operador aislando el circuito de maniobra a un nivel de tensión seguro (24VDC).
+2. **Protección de Activos:** Salvaguardar el motor de la bomba sumergible contra sobrecargas térmicas y cortocircuitos mediante coordinación de protecciones.
+3. **Escalabilidad:** Establecer una arquitectura eléctrica base que permita una transición fluida hacia la automatización total (Industria 4.0) mediante la futura integración de PLCs y sensores de instrumentación.
 
 ## Especificaciones Técnicas
 * **Consumidor:** Motor de inducción trifásico de 7.5 kW (10 HP) / 380 VAC.
